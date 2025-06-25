@@ -1,0 +1,10 @@
+Score 1
+Target
+4 1
+Snake 6
+ListNode@677327b6
+ListNode@14ae5a5
+ListNode@7f31245a
+ListNode@6d6f6e28
+ListNode@135fbaa4
+ListNode@45ee12a7
